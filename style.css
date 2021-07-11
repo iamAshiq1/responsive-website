@@ -3,7 +3,7 @@ body{
     margin: 0;
     justify-content: center;
 }
-@media (min-width: 700px) {
+@media (min-width: 650px) {
     
 .up{
     text-align: center;
@@ -133,7 +133,7 @@ h4{
     color: rgb(172, 171, 171);
   }
 }
-@media (max-width:700px) {
+@media (max-width:650px) {
     .up{
         text-align: center;
         color: rgb(134, 4, 134);
